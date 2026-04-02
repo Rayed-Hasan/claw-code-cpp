@@ -1,5 +1,7 @@
 # Claw Code (C++ Educational Skeleton) 🛠️🤖
 
+![Build](https://github.com/Rayed-Hasan/claw-code-cpp/actions/workflows/build.yml/badge.svg)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![C++20](https://img.shields.io/badge/C++-20-blue.svg)
 
